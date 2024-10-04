@@ -21,7 +21,7 @@ repository               : "asiraudin/asiraudin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio_pic.jpg"
   name             : "Antoine Siraudin"
   pronouns         : # example: "she/her"  
   bio              : "I'm a PhD student in the Learning on Graphs (LoG) group  at RWTH Aachen."
