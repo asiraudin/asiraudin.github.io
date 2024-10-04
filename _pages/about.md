@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student at RWTH Aachen, in the Learning on Graphs group, under the supervision of Christopher Morris. Before that, I studied at CentraleSupélec (Paris-Saclay University) and Sorbonne University (Master M2A).
 
-I am interested in graph machine learning, particularly in the generative setting, with a particular focus on discrete diffusion models.
+I am interested in graph machine learning, especially in the generative setting, with a particular focus on (discrete) diffusion models.
 
 ### Publications
 
